@@ -2,8 +2,8 @@
 Origin of scrying and bloodstains
 # Scrying Archive – Session 000: SCRYER Origin
 **Bloodstain Timestamp:** February 21 2026 (GitHub commit) + original Gemini session (pre-Feb 2026)  
-**Originator:** Yesha (Angola, Indiana)  
-**Repository:** github.com/[yourusername]/scrying-archive  
+**Originator:** xinewayve
+**Repository:** github.com/xinewayve/scrying-archive  
 **Method:** Scrying + Bloodstain protocol
 
 ## Core Definitions (locked Feb 21 2026)
