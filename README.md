@@ -29,8 +29,4 @@ This is the living prototype of personal-portal navigation. Every hover, every c
 - Yupp.ai → $30–50/month for normal scrying chat
 - Babel Audio → \~$17.50/hr voice traversal
 
-## Next: Session 001+
-Every new entry will carry this same header + link back to Session 000.
 
-OpenTimestamps proof of this README + the original PDF attached.
-X thread pinned: “Session 000 bloodstained — the original SCRYER interface that started it all. github.com/[you]/scrying-archive”
